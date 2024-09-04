@@ -1,0 +1,420 @@
+bod,html{
+    width: 100%;
+    height: 100%;
+   
+    text-align: center;
+
+}
+
+
+.flex{
+    border: 4px solid darkblue;
+    height: 300px;
+    margin: 10px auto;
+    width: 50%;
+    display: flex;
+
+
+}
+
+
+.conteudo{
+    border: 1px solid red;
+    margin: 10px;
+    height:100%;
+    width: 25%;
+}
+
+/*---------------------------------------------------*/
+
+.flex1{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin: 10px auto;
+    width: 50%;
+    display: block;
+
+}
+
+
+.conteudo1{
+    border: 1px solid red;
+    margin:10px;
+    height: 100px;
+    width: 25%;
+
+}
+
+/*--------------------------------------------------------*/
+.flex2{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flow-root;
+
+}
+
+.conteudo2{
+    border: 1px solid red;
+    margin: 10px;
+    height: 100px;
+    width: 25%;
+
+}
+
+/*---------------------------------------------------------*/
+.flex3{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display:inline-flex ;
+
+}
+
+.conteudo3{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex4{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: grid;
+
+}
+
+.conteudo4{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex5{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.conteudo5{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex6{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.conteudo6{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+
+/*---------------------------------------------------------*/
+.flex7{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.conteudo7{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex8{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.conteudo8{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+
+/*---------------------------------------------------------*/
+.flex9{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 20%;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.conteudo9{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+/*---------------------------------------------------------*/
+.flex10{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 10%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.conteudo10{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+
+/*---------------------------------------------------------*/
+.flex11{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 10%;
+    display: flex;
+    flex-wrap:wrap-reverse;
+
+}
+
+.conteudo11{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex12{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+     justify-content: center;
+
+}
+
+.conteudo12{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex13{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+     justify-content: start;
+
+}
+
+.conteudo13{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex14{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+     justify-content: end;
+
+}
+
+.conteudo14{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex15{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+     justify-content: space-around;
+
+}
+
+.conteudo15{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+/*---------------------------------------------------------*/
+.flex16{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+     justify-content: space-between;
+
+}
+
+.conteudo16{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+/*---------------------------------------------------------*/
+.flex17{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+     align-items: start;
+
+}
+
+.conteudo17{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+/*---------------------------------------------------------*/
+.flex18{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+    align-items: center;
+
+}
+
+.conteudo18{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex19{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+    align-items: end;
+
+}
+
+.conteudo19{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
+
+
+/*---------------------------------------------------------*/
+.flex20{
+    border: 4px solid darkblue;
+    height: 500px;
+    margin:100px auto;
+    width: 50%;
+    display: flex;
+    align-items: baseline;
+
+}
+
+.conteudo20{
+    border: 1px solid red;
+    margin: 10px;
+    height: 30px;
+    width: 25%;
+
+}
