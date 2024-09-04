@@ -1,14 +1,4 @@
-# POC1-Flexbox
-Prova de conceito sobre as propriedades Flexbox.
-
-
-
-
-
-<br />
-<div align="center">
-  <a href="https://github.com/GabrielUrbinati/POC1-Flexbox">
-    <img src="POC1/README/imagensPOC1/flexbox1.jpeg" alt="Logo" width="80" height="80">
+   <img src="POC1/README/imagensPOC1/flexbox1.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">POC - Flexbox</h3>
@@ -158,16 +148,5 @@ Layout em Colunas e Linhas
 
 
 
-### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
-</a>
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
 
