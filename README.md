@@ -4,7 +4,7 @@ Prova de conceito sobre as propriedades Flexbox.
 
 
 
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://github.com/GabrielUrbinati/POC1-Flexbox">
