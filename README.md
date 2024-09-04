@@ -149,7 +149,7 @@ Layout em Colunas e Linhas
 
 - [ ] **Crie layouts flexiveis com diferentes opcoes de justificacao e alinhamento.**  
   *Veja: `justify-content: space-around;`, `justify-content: space-between;`*
- <img src="POC1/README/imagensPOC1/JC-space-between.jpeg" alt="Exemplo de Layout Basico" width="300"> - Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
+  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/JC-space-around.jpeg)- Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
   ![Exemplo de Layout Basico](POC1/README/imagensPOC1/JC-space-between.jpeg) - Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
