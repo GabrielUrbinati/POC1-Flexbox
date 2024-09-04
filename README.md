@@ -14,10 +14,7 @@ Prova de conceito sobre as propriedades Flexbox.
 <h1 align="center">POC - Flexbox</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
+  O objetivo desta prova de conceito é ajudar os usuários a entender e aplicar HTML e CSS, com foco específico em Flexbox, proporcionando uma base sólida para a criação de layouts responsivos e flexíveis.
   </p>
 </div>
 
