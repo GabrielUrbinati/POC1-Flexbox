@@ -1,4 +1,12 @@
-   <img src="POC1/README/imagensPOC1/flexbox1.jpeg" alt="Logo" width="80" height="80">
+ # POC1-Flexbox
+Prova de conceito sobre as propriedades Flexbox.
+
+<a id="readme-top"></a>
+
+<br />
+<div align="center">
+  <a href="https://github.com/GabrielUrbinati/POC1-Flexbox">
+    <img src="POC1/README/imagensPOC1/flexbox1.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">POC - Flexbox</h3>
