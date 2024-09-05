@@ -53,8 +53,8 @@ Este projeto é parte do segundo semestre do curso de Sistemas de Informação d
 
 ### Construído com
 
-* HTML5
-* CSS
+* HTML5 ![Exemplo de Layout Basico](POC1/README/HTML.png)
+* CSS ![Exemplo de Layout Basico](POC1/README/css.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
