@@ -6,7 +6,7 @@ Prova de conceito sobre as propriedades Flexbox.
 <br />
 <div align="center">
   <a href="https://github.com/GabrielUrbinati/POC1-Flexbox">
-    <img src="POC1/README/imagensPOC1/flexbox1.jpeg" alt="Logo" width="80" height="80">
+    <img src="POC1/README/flexbox1.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">POC - Flexbox</h3>
@@ -118,13 +118,13 @@ Layout em Colunas e Linhas
 
 - [ ] **Crie um layout basico onde os itens sao distribuídos uniformemente ao longo do contêiner.**  
   *Veja: `display: flex;`*
-   ![Exemplo de Layout Basico](POC1/README/imagensPOC1/flex.jpeg)
+   ![Exemplo de Layout Basico](POC1/README/flex.jpeg)
 
 - [ ] **Alinhe itens horizontalmente ao longo do eixo principal com diferentes opcoes de alinhamento, como centralizado(center), ao inicio (start) ou ao final (end).**  
   *Veja: `justify-content: center;`, `justify-content: start;`, `justify-content: end;`*
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/JC-center.jpeg)
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/JC-start.jpeg)
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/JC-end.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/JC-center.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/JC-start.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/JC-end.jpeg)
 
 - [ ] **Alinhe itens verticalmente ao longo do eixo transversal, ajustando a posicao dos itens em relacao ao contêiner no centro (center), ao inicio (start) ou ao final (end)**  
   *Veja: `align-items: center;`, `align-items: start;`, `align-items: end;`*
@@ -134,21 +134,21 @@ Layout em Colunas e Linhas
 
 - [ ] **Use a propriedade `flex-direction` para alternar entre layouts em coluna e linha, permitindo organizar os itens verticalmente ou horizontalmente e de forma inversa.**  
   *Veja: `flex-direction: row;`, `flex-direction: row-reverse;`, `flex-direction: column;`, `flex-direction: column-reverse;`*
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/direc-row.jpeg)
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/row-reverse)
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/direc-column.jpeg)
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/column-reverse.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/direc-row.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/row-reverse)
+  ![Exemplo de Layout Basico](POC1/README/direc-column.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/column-reverse.jpeg)
 
 - [ ] **Utilize Flexbox dentro de outros contêineres flexiveis para criar layouts mais complexos e responsivos.**  
   *Veja: `flex-wrap: nowrap;`, `flex-wrap: wrap;`, `flex-wrap: wrap-reverse;`*
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/nowrap.jpeg) - Os itens flexíveis permanecem em uma única linha, sem quebra. Isso pode resultar em overflow se o conteúdo exceder o espaço disponível. 
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/wrap.jpeg) - Os itens flexíveis quebram em várias linhas, se necessário, para se ajustarem ao contêiner. As linhas adicionais são dispostas abaixo da linha anterior.
+  ![Exemplo de Layout Basico](POC1/README/nowrap.jpeg) - Os itens flexíveis permanecem em uma única linha, sem quebra. Isso pode resultar em overflow se o conteúdo exceder o espaço disponível. 
+  ![Exemplo de Layout Basico](POC1/README/wrap.jpeg) - Os itens flexíveis quebram em várias linhas, se necessário, para se ajustarem ao contêiner. As linhas adicionais são dispostas abaixo da linha anterior.
   ![Exemplo de Layout Basico](POC1/README/imagensPOC1/wrap reverse.jpeg) - Os itens flexíveis também quebram em várias linhas, mas as linhas adicionais são dispostas acima da linha anterior, invertendo a ordem padrão de empilhamento.
 
 - [ ] **Crie layouts flexiveis com diferentes opcoes de justificacao e alinhamento.**  
   *Veja: `justify-content: space-around;`, `justify-content: space-between;`*
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/JC-space-around.jpeg)- Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/JC-space-between.jpeg) - Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
+  ![Exemplo de Layout Basico](POC1/README/JC-space-around.jpeg)- Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
+  ![Exemplo de Layout Basico](POC1/README/JC-space-between.jpeg) - Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
