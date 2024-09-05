@@ -132,7 +132,9 @@ Layout em Colunas e Linhas
   ![Exemplo de Layout Basico](POC1/README/align-items-end.jpeg)
 
 - [ ] **Use a propriedade `flex-direction` para alternar entre layouts em coluna e linha, permitindo organizar os itens verticalmente ou horizontalmente e de forma inversa.**  
-  *Veja: `flex-direction: row;`, `flex-direction: row-reverse;`, `flex-direction: column;`, `flex-direction: column-reverse;`*
+  *Veja: `flex-direction: row;`, `flex-direction: row-reverse;`, `flex-direction: column;`, `flex-direction: column-reverse;`*<br>
+
+  
   ![Exemplo de Layout Basico](POC1/README/direc-row.jpeg)
   ![Exemplo de Layout Basico](POC1/README/row-reverse)
   ![Exemplo de Layout Basico](POC1/README/direc-column.jpeg)
