@@ -6,7 +6,7 @@ Prova de conceito sobre as propriedades Flexbox.
 <br />
 <div align="center">
   <a href="https://github.com/GabrielUrbinati/POC1-Flexbox">
-    <img src="POC1/README/flexbox1.jpeg" alt="Logo" width="80" height="80">
+    <img src="POC1/README/flexbox1.png" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">POC - Flexbox</h3>
