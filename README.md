@@ -20,22 +20,22 @@ Prova de conceito sobre as propriedades Flexbox.
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Conteúdo</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Construído com</a></li>
       </ul>
     </li>
     <li>
       <ul>
-        <li><a href="#prerequisites">Prerequisitos</a></li>
+        <li><a href="#prerequisites">Pré-requisitos</a></li>
       </ul>
     </li>
     <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contatot</a></li>
+    <li><a href="#contact">Contato</a></li>
   </ol>
 </details>
 
