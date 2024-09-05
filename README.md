@@ -136,7 +136,7 @@ Layout em Colunas e Linhas
 
   
   ![Exemplo de Layout Basico](POC1/README/direc-row.jpeg)
-  ![Exemplo de Layout Basico](POC1/README/row-reverse)
+  ![Exemplo de Layout Basico](POC1/README/row-reverse.jpeg)
   ![Exemplo de Layout Basico](POC1/README/direc-column.jpeg)
   ![Exemplo de Layout Basico](POC1/README/column-reverse.jpeg)
 
