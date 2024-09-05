@@ -53,8 +53,8 @@ Este projeto é parte do segundo semestre do curso de Sistemas de Informação d
 
 ### Construído com
 
-* HTML5 ![Exemplo de Layout Basico](POC1/README/HTML.png){: width="300" height="200" }
-* CSS ![Exemplo de Layout Basico](POC1/README/css.png){: width="300" height="200" }
+* HTML5 <img src="POC1/README/HTML.png" alt="Logo" width="180" height="180">
+* CSS <img src="POC1/README/css.png" alt="Logo" width="180" height="180">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
