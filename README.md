@@ -128,9 +128,9 @@ Layout em Colunas e Linhas
 
 - [ ] **Alinhe itens verticalmente ao longo do eixo transversal, ajustando a posicao dos itens em relacao ao contêiner no centro (center), ao inicio (start) ou ao final (end)**  
   *Veja: `align-items: center;`, `align-items: start;`, `align-items: end;`*
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/align-items-center.jpeg)
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/align-items-start.jpeg)
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/align-items-end.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/align-items-center.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/align-items-start.jpeg)
+  ![Exemplo de Layout Basico](POC1/README/align-items-end.jpeg)
 
 - [ ] **Use a propriedade `flex-direction` para alternar entre layouts em coluna e linha, permitindo organizar os itens verticalmente ou horizontalmente e de forma inversa.**  
   *Veja: `flex-direction: row;`, `flex-direction: row-reverse;`, `flex-direction: column;`, `flex-direction: column-reverse;`*
