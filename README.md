@@ -150,7 +150,7 @@ Layout em Colunas e Linhas
   - Os itens flexíveis quebram em várias linhas, se necessário, para se ajustarem ao contêiner. As linhas adicionais são dispostas abaixo da linha anterior.<br>
      
     
-  ![Exemplo de Layout Basico](POC1/README/imagensPOC1/wrap-reverse.jpeg)<br>
+  ![Exemplo de Layout Basico](POC1/README/wrap-reverse.jpeg)<br>
   - Os itens flexíveis também quebram em várias linhas, mas as linhas adicionais são dispostas acima da linha anterior, invertendo a ordem padrão de empilhamento.<br>
 
 - [ ] **Crie layouts flexiveis com diferentes opcoes de justificacao e alinhamento.**  
