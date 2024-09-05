@@ -43,7 +43,7 @@ Prova de conceito sobre as propriedades Flexbox.
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
-![Exemplo de Layout Basico](POC1/README/JC-center.jpeg)
+![Exemplo de Layout Basico](POC1/README/PROJETO.png)
 
 Este projeto é parte do segundo semestre do curso de Sistemas de Informação do Mackenzie, na disciplina de Web Mobile. Trata-se da primeira prova de conceito, com uma abordagem extensiva que visa ampliar o conhecimento na área e promover um impacto positivo na comunidade. O objetivo é ajudar os usuários a entender e aplicar HTML e CSS, com foco específico em Flexbox, proporcionando uma base sólida para a criação de layouts responsivos e flexíveis.
 
