@@ -143,21 +143,21 @@ Layout em Colunas e Linhas
 - [ ] **Utilize Flexbox dentro de outros contêineres flexiveis para criar layouts mais complexos e responsivos.**  
   *Veja: `flex-wrap: nowrap;`, `flex-wrap: wrap;`, `flex-wrap: wrap-reverse;`*
   ![Exemplo de Layout Basico](POC1/README/nowrap.jpeg) <br>
-  - Os itens flexíveis permanecem em uma única linha, sem quebra. Isso pode resultar em overflow se o conteúdo exceder o espaço disponível.<br>
+  - Os itens flexíveis permanecem em uma única linha, sem quebra. Isso pode resultar em overflow se o conteúdo exceder o espaço disponível.<br><br><br>
      
     
   ![Exemplo de Layout Basico](POC1/README/wrap.png) <br>
-  - Os itens flexíveis quebram em várias linhas, se necessário, para se ajustarem ao contêiner. As linhas adicionais são dispostas abaixo da linha anterior.<br>
+  - Os itens flexíveis quebram em várias linhas, se necessário, para se ajustarem ao contêiner. As linhas adicionais são dispostas abaixo da linha anterior.<br><br><br>
      
     
   ![Exemplo de Layout Basico](POC1/README/wrap-reverse.png)<br>
-  - Os itens flexíveis também quebram em várias linhas, mas as linhas adicionais são dispostas acima da linha anterior, invertendo a ordem padrão de empilhamento.<br>
+  - Os itens flexíveis também quebram em várias linhas, mas as linhas adicionais são dispostas acima da linha anterior, invertendo a ordem padrão de empilhamento.<br><br><br>
 
 - [ ] **Crie layouts flexiveis com diferentes opcoes de justificacao e alinhamento.**  
   *Veja: `justify-content: space-around;`, `justify-content: space-between;`*
-  ![Exemplo de Layout Basico](POC1/README/JC-space-around.jpeg)<br>
+  ![Exemplo de Layout Basico](POC1/README/JC-space-around.jpeg)<br><br><br>
   - Distribui os itens de forma que o espaço ao redor de cada item seja igual. Isso significa que o espaço à esquerda do primeiro item e à direita do último item será metade do espaço entre quaisquer outros dois itens.
-  ![Exemplo de Layout Basico](POC1/README/JC-space-between.jpeg) <br>
+  ![Exemplo de Layout Basico](POC1/README/JC-space-between.jpeg) <br><br><br>
   - Distribui os itens de forma que o espaço restante é dividido igualmente entre eles, colocando o primeiro item no início e o último no final da linha.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
